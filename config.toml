@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "http://mariaelenacastellani.com/"
+baseurl = "https://mariaelenacastellani.com/"
 languageCode = "en-us"
 title = "Maria Elena Castellani"
 theme = "hugo-orbit-theme"
